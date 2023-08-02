@@ -4,7 +4,7 @@ import argparse
 import sys
 
 #Define Shodan variables
-SHODAN_API_KEY = "oBtD8zYTi2PmEw88pK3XVuA9Q8VBc8DR"
+SHODAN_API_KEY = ""
 api = shodan.Shodan(SHODAN_API_KEY)
 
 #Define argument options
